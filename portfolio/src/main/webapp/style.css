@@ -5,6 +5,7 @@
   margin-left: auto;
   margin-right: auto;
   width: 1200px;
+  font-size: 25px;
   color: snow;
 }
 #contact-content {
@@ -39,14 +40,20 @@
 #p :hover{
     color: snow;
 }
-#p {
+
+#projects-content{
+    font-size: 25px;
     color: snow;
 }
 
 .title{
     color:#FFD100;
-    font-size: 40px;
+    font-size: 50px;
     
+}
+#list{
+    color: snow;
+    font-size: 30px;
 }
 
 #greeting-container {
