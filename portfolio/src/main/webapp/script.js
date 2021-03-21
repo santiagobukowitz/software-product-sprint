@@ -17,7 +17,7 @@
  */
 function addRandomGreeting() {
   const greetings =
-      ['Hello world!', '¡Hola Mundo!', '你好，世界！', 'Bonjour le monde!'];
+      ['I would rather go 0-for-30 than 0-for-9. 0-for-9 means you beat yourself. The only reason is because you have now lost confidence in yourself - Kobe Bryant '];
 
   // Pick a random greeting.
   const greeting = greetings[Math.floor(Math.random() * greetings.length)];
